@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @Shota-Sunada
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About me
+- A [Shudo Senior High School](https://gakugai.shudo-h.ed.jp/) student.
+- A member of [Shudo Physics Club](https://github.com/ShudoPhysicsClub)
 
-<!---
-Shota-Sunada/Shota-Sunada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shota-Sunada&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shota-Sunada&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shota-Sunada&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shota-Sunada&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shota-Sunada&theme=onedark&utcOffset=8)
 
-
-Why I have to write this?
+![trophy](https://github-profile-trophy.vercel.app/?username=Shota-Sunada&theme=onedark)
