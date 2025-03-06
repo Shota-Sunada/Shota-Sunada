@@ -8,7 +8,9 @@
   - Go
   - HTML/CSS/JS、Reactなど
   - その他色々
+- ドット絵練習中
 
 ## About me
 - A [Shudo Senior High School](https://gakugai.shudo-h.ed.jp/) student.
 - A member of Shudo Physics Club: [[Website](https://shudo-physics.com/)] [[GitHub](https://github.com/ShudoPhysicsClub)]
+- Drawing pixel arts
